@@ -1,0 +1,2 @@
+ReadMe for WebCalender
+WebCalendar is a PHP-based calendar application that can be configured as a single-user calendar, a multi-user calendar for groups of users, or as an event calendar viewable by visitors. 
